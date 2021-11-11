@@ -394,7 +394,7 @@ this, consider to spread the word to encourage more users to move to this fork.
 ### Migration from `babel-plugin-react-css-modules`
 
 - Prefix plugin name in your Babel config by `@dr.pogodin/` scope, _i.e._:
-  `@dr.pogodin/babel-plugin-react-css-modules` or `@dr.pogodin/react-css-moudles` instead of `babel-plugin-react-css-modules` or `react-css-modules`.
+  `@dr.pogodin/babel-plugin-react-css-modules` or `@dr.pogodin/react-css-modules` instead of `babel-plugin-react-css-modules` or `react-css-modules`.
 
 - Be sure to have `webpack` installed (it is a must-to-have peer dependency
   of this plugin starting from `v6.2.0`).
